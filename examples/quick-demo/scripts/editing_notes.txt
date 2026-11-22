@@ -1,0 +1,18 @@
+======================================================================
+EDITOR'S NOTES — HELLO, PRESENTATION STUDIO
+======================================================================
+
+Slides: 3   Est. runtime: 1 min
+Pacing: ~150 spoken words per minute
+
+01. Hello, Presentation Studio
+    Layout: hero   Words: 23   ~9s
+    Tone: engaging
+
+02. How This Works
+    Layout: split   Words: 24   ~10s
+    Tone: engaging
+
+03. Your Turn
+    Layout: cta   Words: 19   ~8s
+    Tone: engaging

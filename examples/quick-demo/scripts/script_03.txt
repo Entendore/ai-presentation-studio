@@ -1,0 +1,16 @@
+======================================================================
+SLIDE 03 — YOUR TURN
+======================================================================
+
+[Tone: engaging]
+
+Now try it yourself.
+
+[PAUSE]
+
+Open the first slide in the HTML editor. Change the title. Watch the preview update.
+
+[PAUSE]
+
+[END]
+======================================================================

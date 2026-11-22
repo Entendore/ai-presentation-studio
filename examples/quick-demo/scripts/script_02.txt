@@ -1,0 +1,16 @@
+======================================================================
+SLIDE 02 — HOW THIS WORKS
+======================================================================
+
+[Tone: engaging]
+
+Here's the whole workflow.
+
+[PAUSE]
+
+Generate a prompt. Copy it to your AI. Paste the returned script back here. Validate it. Approve it. Run it.
+
+[PAUSE]
+
+[END]
+======================================================================

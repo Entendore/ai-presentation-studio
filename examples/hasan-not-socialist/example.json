@@ -1,0 +1,66 @@
+{
+  "slug": "hasan-not-socialist",
+  "title": "Hasan Piker Is Not a Socialist",
+  "category": "video_essay",
+  "description": "A materialist-style critique arguing that a successful leftist media brand can still operate as a capitalist business.",
+  "slide_count": 9,
+  "accent": "#ff3b3b",
+  "tags": [
+    "hasan piker",
+    "socialism",
+    "capitalism",
+    "political commentary",
+    "video essay",
+    "leftist critique",
+    "media business"
+  ],
+  "disclaimer": "OPINION / DEBATE EXAMPLE. Claims about any person's finances, ownership, lifestyle or policy positions MUST be fact-checked before publishing.",
+  "created_at": "2026-10-17T01:39:00.648682",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Hasan Piker Is Not a Socialist",
+      "layout": "hero"
+    },
+    {
+      "number": 2,
+      "title": "The Core Question",
+      "layout": "split"
+    },
+    {
+      "number": 3,
+      "title": "Who Owns the Business?",
+      "layout": "compare"
+    },
+    {
+      "number": 4,
+      "title": "The 'Good Boss' Fallacy",
+      "layout": "compare"
+    },
+    {
+      "number": 5,
+      "title": "Socialism Is Not Social Democracy",
+      "layout": "spectrum"
+    },
+    {
+      "number": 6,
+      "title": "The Consumption Problem",
+      "layout": "grid"
+    },
+    {
+      "number": 7,
+      "title": "The Strongest Defense",
+      "layout": "split"
+    },
+    {
+      "number": 8,
+      "title": "The Verdict",
+      "layout": "verdict"
+    },
+    {
+      "number": 9,
+      "title": "What Do You Think?",
+      "layout": "cta"
+    }
+  ]
+}

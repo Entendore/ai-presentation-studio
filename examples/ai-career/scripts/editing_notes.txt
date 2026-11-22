@@ -1,0 +1,22 @@
+======================================================================
+EDITOR'S NOTES — AI WON'T REPLACE YOU. A PERSON USING AI MIGHT.
+======================================================================
+
+Slides: 4   Est. runtime: 1 min
+Pacing: ~150 spoken words per minute
+
+01. AI Won't Replace You. A Person Using AI Might.
+    Layout: hero   Words: 25   ~10s
+    Tone: engaging
+
+02. Automatable vs. Durable
+    Layout: compare   Words: 22   ~9s
+    Tone: engaging
+
+03. Five Skills That Compound
+    Layout: grid   Words: 27   ~11s
+    Tone: engaging
+
+04. Your 30-Day Plan
+    Layout: cta   Words: 28   ~11s
+    Tone: engaging

@@ -1,0 +1,26 @@
+======================================================================
+EDITOR'S NOTES — THE HOUSING CRISIS ISN'T AN ACCIDENT
+======================================================================
+
+Slides: 5   Est. runtime: 1 min
+Pacing: ~150 spoken words per minute
+
+01. The Housing Crisis Isn't an Accident
+    Layout: hero   Words: 35   ~14s
+    Tone: engaging
+
+02. Six Forces Behind the Shortage
+    Layout: grid   Words: 20   ~8s
+    Tone: engaging
+
+03. Three Ways to Think About Housing
+    Layout: spectrum   Words: 21   ~8s
+    Tone: engaging
+
+04. The Numbers That Matter
+    Layout: split   Words: 18   ~7s
+    Tone: engaging
+
+05. What Can Actually Change?
+    Layout: cta   Words: 27   ~11s
+    Tone: engaging

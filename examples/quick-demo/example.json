@@ -1,0 +1,32 @@
+{
+  "slug": "quick-demo",
+  "title": "Hello, Presentation Studio",
+  "category": "demo",
+  "description": "A three-slide smoke test. Fastest way to verify rendering, TTS, validation, execution and export all work end to end.",
+  "slide_count": 3,
+  "accent": "#4ec9b0",
+  "tags": [
+    "demo",
+    "test",
+    "getting started"
+  ],
+  "disclaimer": "",
+  "created_at": "2026-10-17T01:39:00.627630",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Hello, Presentation Studio",
+      "layout": "hero"
+    },
+    {
+      "number": 2,
+      "title": "How This Works",
+      "layout": "split"
+    },
+    {
+      "number": 3,
+      "title": "Your Turn",
+      "layout": "cta"
+    }
+  ]
+}

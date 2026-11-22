@@ -1,0 +1,16 @@
+======================================================================
+SLIDE 01 — HELLO, PRESENTATION STUDIO
+======================================================================
+
+[Tone: engaging]
+
+This is your smoke test.
+
+[PAUSE]
+
+Three slides, three narration scripts, and a full set of YouTube metadata. Small enough to render in seconds.
+
+[PAUSE]
+
+[END]
+======================================================================

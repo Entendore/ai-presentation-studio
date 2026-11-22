@@ -1,0 +1,42 @@
+======================================================================
+EDITOR'S NOTES — HASAN PIKER IS NOT A SOCIALIST
+======================================================================
+
+Slides: 9   Est. runtime: 2 min
+Pacing: ~150 spoken words per minute
+
+01. Hasan Piker Is Not a Socialist
+    Layout: hero   Words: 41   ~16s
+    Tone: engaging
+
+02. The Core Question
+    Layout: split   Words: 38   ~15s
+    Tone: engaging
+
+03. Who Owns the Business?
+    Layout: compare   Words: 28   ~11s
+    Tone: engaging
+
+04. The 'Good Boss' Fallacy
+    Layout: compare   Words: 31   ~12s
+    Tone: engaging
+
+05. Socialism Is Not Social Democracy
+    Layout: spectrum   Words: 24   ~10s
+    Tone: engaging
+
+06. The Consumption Problem
+    Layout: grid   Words: 24   ~10s
+    Tone: engaging
+
+07. The Strongest Defense
+    Layout: split   Words: 24   ~10s
+    Tone: engaging
+
+08. The Verdict
+    Layout: verdict   Words: 21   ~8s
+    Tone: engaging
+
+09. What Do You Think?
+    Layout: cta   Words: 23   ~9s
+    Tone: engaging

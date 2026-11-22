@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>The Core Question</title>
+<style>
+:root { --accent: #ff3b3b; }
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  width: 1920px; height: 1080px; overflow: hidden;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background: radial-gradient(ellipse at 30% 40%, #1a0a0a 0%, #070707 70%);
+  color: #f2f2f2; padding: 90px 110px;
+  display: flex; flex-direction: column; position: relative;
+}
+.kicker {
+  display: inline-block; align-self: flex-start;
+  font-size: 26px; letter-spacing: 7px; text-transform: uppercase;
+  color: var(--accent); border: 2px solid var(--accent);
+  padding: 10px 26px; border-radius: 4px; margin-bottom: 46px;
+}
+h1 {
+  font-size: 112px; font-weight: 900; line-height: 1.02;
+  letter-spacing: -3px; text-transform: uppercase;
+}
+h1 .accent { color: var(--accent); }
+h2 { font-size: 56px; font-weight: 800; line-height: 1.15; }
+p { font-size: 38px; line-height: 1.55; color: #b9b9b9; }
+.header { display: flex; align-items: center; gap: 34px; margin-bottom: 56px; }
+.num {
+  font-size: 110px; font-weight: 900; color: var(--accent);
+  opacity: .55; line-height: 1;
+}
+.header h1 { font-size: 82px; }
+.footer {
+  position: absolute; bottom: 42px; left: 110px; right: 110px;
+  display: flex; justify-content: space-between; align-items: center;
+  font-size: 22px; letter-spacing: 3px; color: #666;
+  text-transform: uppercase;
+}
+.progress { height: 5px; background: #222; border-radius: 3px; overflow: hidden; }
+.progress span { display: block; height: 100%; background: var(--accent); }
+.fade { animation: fadeUp .8s ease both; }
+.d1 { animation-delay: .12s; } .d2 { animation-delay: .26s; }
+.d3 { animation-delay: .40s; } .d4 { animation-delay: .54s; }
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(34px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+
+.split { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; flex: 1; }
+.panel { padding: 54px; border-radius: 16px; background: #151515;
+  border: 1px solid #2c2c2c; }
+.panel.accent { background: linear-gradient(160deg, #241010, #120808);
+  border-color: var(--accent); }
+.panel h2 { margin-bottom: 26px; }
+.panel ul { list-style: none; }
+.panel li { font-size: 34px; color: #c7c7c7; padding: 15px 0;
+  border-bottom: 1px solid #2a2a2a; }
+.panel li::before { content: "▸ "; color: var(--accent); font-weight: 900; }
+
+</style>
+</head>
+<body>
+
+<div class="header fade"><span class="num">02</span>
+<h1>The Core Question</h1></div>
+<div class="split">
+  <div class="panel accent fade d1">
+    <h2>What Are We Actually Testing?</h2>
+    <p>A socialist owns the means of production collectively. A capitalist owns them privately and pays workers a wage.</p>
+  </div>
+  <div class="panel fade d2"><h2>The Details</h2><ul><li>Socialism: social or worker ownership</li><li>Capitalism: private ownership + wage labour</li><li>Judge the structure, not the aesthetics</li><li>Judge the policy, not the vocabulary</li></ul></div>
+</div>
+<div class="footer">
+  <span>VIDEO_ESSAY</span>
+  <div class="progress" style="width:420px"><span style="width:22%"></span></div>
+  <span>02 / 09</span>
+</div>
+</body>
+</html>

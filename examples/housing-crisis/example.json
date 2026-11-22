@@ -1,0 +1,44 @@
+{
+  "slug": "housing-crisis",
+  "title": "The Housing Crisis Isn't an Accident",
+  "category": "explainer",
+  "description": "A five-slide explainer on why housing became unaffordable.",
+  "slide_count": 5,
+  "accent": "#4ec9b0",
+  "tags": [
+    "housing",
+    "economics",
+    "housing crisis",
+    "policy",
+    "explainer"
+  ],
+  "disclaimer": "",
+  "created_at": "2026-10-17T01:39:00.663686",
+  "slides": [
+    {
+      "number": 1,
+      "title": "The Housing Crisis Isn't an Accident",
+      "layout": "hero"
+    },
+    {
+      "number": 2,
+      "title": "Six Forces Behind the Shortage",
+      "layout": "grid"
+    },
+    {
+      "number": 3,
+      "title": "Three Ways to Think About Housing",
+      "layout": "spectrum"
+    },
+    {
+      "number": 4,
+      "title": "The Numbers That Matter",
+      "layout": "split"
+    },
+    {
+      "number": 5,
+      "title": "What Can Actually Change?",
+      "layout": "cta"
+    }
+  ]
+}

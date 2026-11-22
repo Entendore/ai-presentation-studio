@@ -1,0 +1,10 @@
+Hello, Presentation Studio
+A three-slide smoke test. Fastest way to verify rendering, TTS, validation, execution and export all work end to end.
+⏱ CHAPTERS
+0:00 — Hello, Presentation Studio
+1:30 — How This Works
+3:00 — Your Turn
+💬 DEBATE IN THE COMMENTS
+What's the strongest counterargument? I'll reply to the best ones.
+Subscribe for more deep dives.
+#demo #test #gettingstarted

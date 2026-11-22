@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Your Turn</title>
+<style>
+:root { --accent: #4ec9b0; }
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  width: 1920px; height: 1080px; overflow: hidden;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background: radial-gradient(ellipse at 30% 40%, #1a0a0a 0%, #070707 70%);
+  color: #f2f2f2; padding: 90px 110px;
+  display: flex; flex-direction: column; position: relative;
+}
+.kicker {
+  display: inline-block; align-self: flex-start;
+  font-size: 26px; letter-spacing: 7px; text-transform: uppercase;
+  color: var(--accent); border: 2px solid var(--accent);
+  padding: 10px 26px; border-radius: 4px; margin-bottom: 46px;
+}
+h1 {
+  font-size: 112px; font-weight: 900; line-height: 1.02;
+  letter-spacing: -3px; text-transform: uppercase;
+}
+h1 .accent { color: var(--accent); }
+h2 { font-size: 56px; font-weight: 800; line-height: 1.15; }
+p { font-size: 38px; line-height: 1.55; color: #b9b9b9; }
+.header { display: flex; align-items: center; gap: 34px; margin-bottom: 56px; }
+.num {
+  font-size: 110px; font-weight: 900; color: var(--accent);
+  opacity: .55; line-height: 1;
+}
+.header h1 { font-size: 82px; }
+.footer {
+  position: absolute; bottom: 42px; left: 110px; right: 110px;
+  display: flex; justify-content: space-between; align-items: center;
+  font-size: 22px; letter-spacing: 3px; color: #666;
+  text-transform: uppercase;
+}
+.progress { height: 5px; background: #222; border-radius: 3px; overflow: hidden; }
+.progress span { display: block; height: 100%; background: var(--accent); }
+.fade { animation: fadeUp .8s ease both; }
+.d1 { animation-delay: .12s; } .d2 { animation-delay: .26s; }
+.d3 { animation-delay: .40s; } .d4 { animation-delay: .54s; }
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(34px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+
+body { justify-content: center; align-items: center; text-align: center; }
+h1 { font-size: 132px; margin-bottom: 40px; }
+.subtitle { font-size: 40px; max-width: 1400px; margin-bottom: 70px; }
+.buttons { display: flex; gap: 32px; }
+.btn { padding: 28px 56px; border-radius: 12px; font-size: 34px;
+  font-weight: 800; text-transform: uppercase; letter-spacing: 3px; }
+.btn.red { background: var(--accent); color: #fff; }
+.btn.white { background: #f2f2f2; color: #111; }
+.btn.gold { background: #ffcc00; color: #111; }
+
+</style>
+</head>
+<body>
+
+<div class="kicker fade">Go Build Something</div>
+<h1 class="fade d1">Your Turn</h1>
+<p class="subtitle fade d2">Install this demo, open the first slide, and press play.</p>
+<div class="buttons fade d3">
+  <div class="btn red">👍 Like</div>
+  <div class="btn white">🔔 Subscribe</div>
+  <div class="btn gold">💬 Comment</div>
+</div>
+<div class="footer">
+  <span>DEMO</span>
+  <div class="progress" style="width:420px"><span style="width:100%"></span></div>
+  <span>03 / 03</span>
+</div>
+</body>
+</html>
